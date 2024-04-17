@@ -1,7 +1,7 @@
 # Employee Management System
 
 ## Project Overview
-This Employee Management System is a React-based web application designed to manage employee records within an organization. It allows users to add, edit, delete, and search for employee details efficiently.
+This Employee Management System is a React-based Table Content Page designed to manage employee records within Vibrant America. It allows users to add, edit, delete, and search for employee details efficiently.
 
 ## Features
 - **Add Employees**: Insert new employee records into the system.
@@ -23,5 +23,13 @@ This Employee Management System is a React-based web application designed to man
 ### Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/employee-management-system.git
-   cd employee-management-system
+   git clone https://github.com/Joeycode0/Vibrant_Lab-IT_ReactJS.git
+   cd Vibrant_Lab-IT_ReactJS
+2. **Install Dependencies**
+   ```bash
+   npm install
+3. **Run the Application**
+   ```bash
+   npm start
+This command runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
